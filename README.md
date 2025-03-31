@@ -6,11 +6,11 @@ Welcome to the **Emmy Food Delivery App**! 🏃🏻‍♂️🚚
 This is a feature-rich **food delivery app** built with **Flutter**.
 
 ## 🔧 Tech Stack
-- **Framework**: Flutter
-- **Authentication**: Firebase Auth
-- **Payment System**: Stripe Integration
-- **Backend**: Firebase Firestore / Custom API
-- **UI/UX**: Beautiful, modern design with smooth animations
+- **Framework**:  Flutter
+- **Authentication**:  Firebase Auth
+- **Payment System**:  Stripe Integration
+- **Backend**:  Firebase  Firestore / Custom API
+- **UI/UX**:  Beautiful, modern design with smooth animations
 
 ## 🛠 Setup & Installation
 ### 1️⃣ Clone the Repository
